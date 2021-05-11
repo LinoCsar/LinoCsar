@@ -1,4 +1,4 @@
-👋 Regards !!!, I’m @LinoCsar
+👋👋 Regards !!!, I’m @LinoCsar 👦
   - 👀 I’m interested in frontend development data sciense
   - 🌱 I’m currently learning typescript
   - 💞️ I’m looking to collaborate on node.js
